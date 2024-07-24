@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a first-year college student, a self-taught computer enthusiast and a hobbyist investor. Currently, I am working on improving my Typescript skills, on a project and studies. In my free time, I like to admire nature, read non-fiction books on a various topics.
+I am Harshit Sethi. I am a first-year college student, a self-taught computer enthusiast and a hobbyist investor. Currently, I am working on improving my backend skills, on a project and studies.
 
 ## Contact
 
