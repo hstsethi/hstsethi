@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a first-year college student, a self-taught computer enthusiast, equity trader. Currently, I am working on improving my AI engineering skills, on a project and studies.
+I am Harshit Sethi. I am a bachelor student, self-taught computer enthusiast, equity trader. Currently, I am working on improving my AI engineering skills, on a project.
 
 ## Contact
 
