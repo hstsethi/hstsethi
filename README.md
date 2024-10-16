@@ -10,7 +10,7 @@ Checkout my [website](https://hstsethi.vercel.app) for additional info.
 
 ## Stats
 
-![hstSethi's Github stats](https://github-readme-stats.vercel.app/api?username=hstsethi&theme=merko)
+![hstSethi's Github stats](https://github-readme-stats.vercel.app/api?username=hstsethi&theme=merko&hide=issues,contribs)
 
 
 ![Hstsethi's language usage chart](https://github-readme-stats.vercel.app/api/top-langs/?username=hstsethi&theme=merko)
