@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 18 year old, first semester bachelor student, self-taught AI, data enthusiast, technical writer, equity trader. Currently, I am working on improving my AI engineering skills, my website and on a project.
+I am Harshit Sethi. I am a 18 year old, first semester bachelor student, self-taught AI, Data Enthusiast, Equity Trader, Technical Writer. Currently, I am working on improving my AI engineering skills, my website and on a project.
 
 ## Contact
 
