@@ -10,7 +10,7 @@ If you are sending a confidential message then please consider encrypting it usi
 
 Fingerprint: `D921 11B3 4556 7FB6 9040  C648 2E58 3E92 BF75 68C1`
 
-Check out my [website](https://hstsethi.vercel.app) for additional info, short autobiography, resume and my blogs.
+Check out my 100% open source, JavaScript, ads, tracker free [website](https://hstsethi.vercel.app) for additional info, short autobiography, resume and my blogs on technology, finance, lifestyle, philosophy and related topics.
 
 For more information regarding my finance journey, check out my free financial autobiography: [From Coins To 25% In Equity At 18](https://hstsethi.vercel.app/posts/finance/from-coins-to-25-equity-at-18)
 
