@@ -21,4 +21,4 @@ In it I share how a coin, stationery collection hobby paved my way as an equity 
 ![hstSethi's Github stats](https://github-readme-stats.vercel.app/api?username=hstsethi&theme=merko&hide=issues,contribs&hide_rank=true)
 
 
-![Hstsethi's language usage chart](https://github-readme-stats.vercel.app/api/top-langs/?username=hstsethi&hide=Jupyter%20Notebook,html&layout=compact&theme=merko) 
+![Hstsethi's language usage chart](https://github-readme-stats.vercel.app/api/top-langs/?username=hstsethi&hide=Jupyter%20Notebook,html,tex&layout=compact&theme=merko) 
