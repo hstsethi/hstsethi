@@ -12,9 +12,6 @@ Fingerprint: `D921 11B3 4556 7FB6 9040  C648 2E58 3E92 BF75 68C1`
 
 Check out my 100% open source [website](https://hstsethi.vercel.app) for additional info, short autobiography, resume and my blogs on technology, finance, lifestyle, philosophy and related topics.
 
-For more information regarding my finance journey, check out my free financial autobiography: [From Coins To 25% In Equity At 18](https://hstsethi.vercel.app/posts/finance/from-coins-to-25-equity-at-18)
-
-In it I share how a coin, stationery collection hobby paved my way as an equity trader who made 25% in equity at the age of 18, on his own.
 
 ## Stats
 
