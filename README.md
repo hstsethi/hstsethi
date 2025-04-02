@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 18 year old, first semester bachelor student, self-taught AI, Data Enthusiast, Equity Trader, Technical Writer. Currently, I am working on improving my AI engineering skills, my website and on a project.
+I am Harshit Sethi. I am a 18 year old, second semester bachelor student, self-taught AI, Data Enthusiast, Equity Lakhpati, Technical Writer. Currently, I am working on improving my AI engineering skills, my website and on a project.
 
 ## Contact
 
@@ -12,6 +12,7 @@ Fingerprint: `D921 11B3 4556 7FB6 9040  C648 2E58 3E92 BF75 68C1`
 
 Check out my 100% open source [website](https://hstsethi.vercel.app) for additional info, short autobiography, resume and my blogs on technology, finance, lifestyle, philosophy and related topics.
 
+Below are my projects. Please give them a star(:star:) to support the development.
 
 ## Stats
 
