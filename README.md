@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 18 year old, second semester bachelor student, self-taught AI, Data Enthusiast, Equity Lakhpati, Technical Writer. Currently, I am working on improving my AI engineering skills, my website and on a project.
+I am Harshit Sethi. I am a 19 year old, second semester student. A Self Made AI, Data enthusiast, Equity Lakhpati(100, 000+, since 18). 
 
 ## Contact
 
