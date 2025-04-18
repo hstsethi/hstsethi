@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 19 year old, second semester student. Self Made AI, Data, Equity Enthusiast(Cap. 100k+ INR since 18). 
+I am Harshit Sethi. I am a 19 year old, second semester student. Self Made AI, Data, Equity Enthusiast(Cap. 1.10k+ INR since 18). 
 
 ## Contact
 
