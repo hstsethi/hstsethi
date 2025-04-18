@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 19 year old, second semester student. A Self Made AI, Data enthusiast, Equity Lakhpati(100, 000+, since 18). 
+I am Harshit Sethi. I am a 19 year old, second semester student. Self Made AI, Data, Equity Enthusiast(1,00,000+ since 18). 
 
 ## Contact
 
