@@ -16,6 +16,9 @@ Below are my projects. Please give them a star(⭐) to support the development.
 
 ## Stats
 
+The statistics lag behind by almost 24 hours due to rate limiting of the server and caching by Github Camo.
+
+
 ![hstSethi's Github stats](https://github-readme-stats.vercel.app/api?username=hstsethi&theme=merko&hide=issues,contribs&hide_rank=true)
 
 
