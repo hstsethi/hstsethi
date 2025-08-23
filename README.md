@@ -2,9 +2,8 @@
 
 I am Harshit Sethi. I am a 19 year old, second semester AI student. An AI, Data, Equity Enthusiast.
 
-Check out my minimalist [website](https://hstsethi.vercel.app) for additional info, resume and my blogs on technology, finance, lifestyle, philosophy and related topics.
 
-Below are my projects. Please give them a star(⭐) to support the development.
+[Here](https://github.com/hstsethi?tab=repositories&q=&type=source&language=&sort=) are my projects with archives and forks filtered out.
 
 ## Stats
 
