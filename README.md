@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am Harshit Sethi. I am a 19 year old, second semester AI student. An AI, Data, Equity Enthusiast.
+I am Harshit Sethi. I am a data science student, and an equity enthusiast.
 
 
 [Here](https://github.com/hstsethi?tab=repositories&q=&type=source&language=&sort=) are my projects with archives and forks filtered out.
